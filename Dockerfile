@@ -1,4 +1,4 @@
-FROM node:4
+FROM node:6.11.0
 
 ENV CROWI_VERSION v1.6.2
 ENV NODE_ENV production
